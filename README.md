@@ -1,5 +1,7 @@
 # django-models3-ic_b
 
+## EACH EXERCISE SHOULD BE A SEPARATE APP
+
 ### Exercise 1
 Exercise 3
 Create a House model with address, bedrooms, bathrooms, and squareFeet attributes. Create 3 entries using 3 different methods (admin site, create method using an endpoint, and class construtor using an endpoint).
